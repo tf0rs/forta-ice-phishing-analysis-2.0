@@ -1,6 +1,6 @@
 # forta-ice-phishing-analysis-2.0
 
-Analyzing the output of the Ice Phishing 2.0 agent deployed on Forta. This analysis uses labels from Etherscan and Chainabuse to provide context for addresses identified as making transactions resembling ice phishing.
+Analyzing the output of the Ice Phishing 2.0 agent deployed on Forta. The objective of this work is to build confidence in Forta ice phishing alerts by defining heuristics that characterize their on-chain transaction behaviors. Labels from Etherscan and Chainabuse are used to provide context for addresses identified as engaged in ice phishing, and to help filter out false positives.
 
 ### Dune Dashboards - Gas Consumption & Exploratory Analysis
 
